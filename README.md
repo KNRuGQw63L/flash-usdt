@@ -1,4 +1,4 @@
-# Flash USDT Sender
+# Flash USDT Sender 
 
 ## Overview
 
@@ -24,4 +24,3 @@ The USDT Flash Sender is a Python-based project that creates and sends any amoun
 ### Disclaimer
 
 This project is for educational purpouses only.
-
