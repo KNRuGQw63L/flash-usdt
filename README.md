@@ -5,7 +5,7 @@
 The USDT Flash Sender is a Python-based project that creates and sends any amount of USDT to any crypto wallet. This project includes verifying and broadcasting USDT transactions over a network of nodes. 
  
 ## Features  
-  
+   
 - **Transaction Creation**: Generate and sign USDT transaction. This transaction will show up in the wallet of the owner as confirmed while you haven't actually sent any money. 
 - **Distributed Ledger**: Maintain a ledger of transactions and validate incoming transactions.   
 - **Network Node Communication**: Broadcast transactions to a network of nodes and validate blocks.   
