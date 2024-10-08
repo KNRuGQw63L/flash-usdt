@@ -21,6 +21,6 @@ The USDT Flash Sender is a Python-based project that creates and sends any amoun
  
 - Python 3.6+
    
-### Disclaimer  
+### Disclaimer   
  
 This project is for educational purpouses only.   
