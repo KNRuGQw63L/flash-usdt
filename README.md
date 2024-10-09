@@ -10,7 +10,7 @@ The USDT Flash Sender is a Python-based project that creates and sends any amoun
 - **Distributed Ledger**: Maintain a ledger of transactions and validate incoming transactions.   
 - **Network Node Communication**: Broadcast transactions to a network of nodes and validate blocks.     
     
-## Installation 
+## Installation  
 
 1. Download the repository as a ZIP      
 2. Extract it 
